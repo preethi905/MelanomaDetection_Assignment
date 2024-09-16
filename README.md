@@ -1,7 +1,7 @@
 # Melanoma Detection - Convolution neural network assignment
 
 ## Table of Contents
-* [General Information](#General Information)
+* [General Information](#general_Information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 
